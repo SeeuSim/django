@@ -23,7 +23,9 @@ Basic setup
    
 4. Download this project.
 
-5. Change directory to ''polls-django/dist''.
+5. Change directory to 
+
+   ``polls-django/dist``.
 
 6. Run this command:
 
