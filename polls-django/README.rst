@@ -11,24 +11,24 @@ Basic setup
 -----------
 1. Create a directory to host your project.
 
-2. Check your django version::
+2. Check your django version by running:
+
+   ``python -m django --version``
    
-   python -m django --version
+   If not installed, install django.
 
-2.1. If not installed, install django.
+3. Run this command to initialise the project:
 
-3. Run this command to initialise the project::
-
-   django-admin startapp <project_name_here>
-
+   ``django-admin startapp <project_name_here>``
+   
 4. Download this project.
 
-5. Change directory to polls-django/dist.
+5. Change directory to ''polls-django/dist''.
 
-6. Run this command::
+6. Run this command:
 
-   python -m pip install --user polls-django-0.1.tar.gz
-
+   ``python -m pip install --user polls-django-0.1.tar.gz``
+   
 Quick start
 -----------
 
