@@ -28,14 +28,14 @@ django-admin startapp <project_name_here>
 
 ```
 polls-django/dist
-```.
+```
 
 6. Run this command:
 
-'''
-python -m pip install --user polls-django-0.1.tar.gz
 ```
-   
+python -m pip install --user polls-django-0.1.tar.gz
+
+```
 # Quick start
 
 
